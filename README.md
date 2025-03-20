@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am an Economics graduate and will be using this GitHub page for data analysis projects mainly!
+
+I am interested in football data analysis and just data in general.
+
+Fun Fact: I produce music and do graphic design as a hobby!
+
 <!--
 **Zewsa-th/Zewsa-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
